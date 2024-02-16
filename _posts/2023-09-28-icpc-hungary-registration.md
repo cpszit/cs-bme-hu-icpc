@@ -50,7 +50,7 @@ Your team must meet the following criteria:
 
 **The top 2 eligible teams from BME advance to the next round.**
 
-The CERC will be held between 8-10 December, 2023</div> in Ljubljana, Slovenia, by the [University of Ljubljana, Faculty of Computer and Information Science](https://goo.gl/maps/ykUS8cy3s8FL17rN9).
+The CERC will be held between 8-10 December, 2023 in Ljubljana, Slovenia, by the [University of Ljubljana, Faculty of Computer and Information Science](https://maps.app.goo.gl/w745vg7XRnDmQxbe9).
 
 [https://cerc.acm.si/](https://cerc.acm.si/)
 
