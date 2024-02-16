@@ -43,13 +43,13 @@ During the contest, the teams had to solve 12 challenging algorithmical problems
 
 ## During contest
 
-![LSZ](assets/images/icpc-hungary-2023/lsz.jpg){.w-100}
+![LSZ](/assets/images/icpc-hungary-2023/lsz.jpg){.w-100}
 _LSZ_
 
-![DSU](assets/images/icpc-hungary-2023/dsu.jpg){.w-100}
+![DSU](/assets/images/icpc-hungary-2023/dsu.jpg){.w-100}
 _DSU_
 
-![DSU](assets/images/icpc-hungary-2023/the-quantum-homies.jpg){.w-100}
+![DSU](/assets/images/icpc-hungary-2023/the-quantum-homies.jpg){.w-100}
 _TheQuantumHomies_
 
 Congratulations to everyone and see you next year!
