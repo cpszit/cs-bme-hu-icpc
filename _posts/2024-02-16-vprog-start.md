@@ -12,7 +12,7 @@ tags:
 math: false
 ---
 
-![Balloons](https://vprog.hu/assets/img/balloons-cartoon.png){: width="200" .w-50 .left}
+![Balloons](https://vprog.hu/assets/img/balloons-cartoon.png){: width="200" .right}
 
 The VProg competitive programming study groups are continued this semester, organized by [BME VIK SZIT](https://cs.bme.hu/english)!
 
