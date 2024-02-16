@@ -32,14 +32,13 @@ const resource = [
   
   
     '/cs-bme-icpc-new/assets/img/favicons/android-chrome-192x192.png',
-    '/cs-bme-icpc-new/assets/img/favicons/android-chrome-256x256.png',
+    '/cs-bme-icpc-new/assets/img/favicons/android-chrome-512x512.png',
     '/cs-bme-icpc-new/assets/img/favicons/apple-touch-icon.png',
     '/cs-bme-icpc-new/assets/img/favicons/favicon-16x16.png',
     '/cs-bme-icpc-new/assets/img/favicons/favicon-32x32.png',
     '/cs-bme-icpc-new/assets/img/favicons/favicon.ico',
     '/cs-bme-icpc-new/assets/img/favicons/mstile-150x150.png',
     '/cs-bme-icpc-new/assets/img/favicons/safari-pinned-tab.svg',
-    '/cs-bme-icpc-new/assets/img/favicons/android-chrome-512x512.png',
     '/cs-bme-icpc-new/assets/js/dist/categories.min.js',
     '/cs-bme-icpc-new/assets/js/dist/commons.min.js',
     '/cs-bme-icpc-new/assets/js/dist/home.min.js',
