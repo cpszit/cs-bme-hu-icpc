@@ -1,6 +1,6 @@
 self.importScripts('/cs-bme-icpc-new/assets/js/data/swcache.js');
 
-const cacheName = 'chirpy-1708114998';
+const cacheName = 'chirpy-1708115080';
 
 function verifyDomain(url) {
   for (const domain of allowedDomains) {
