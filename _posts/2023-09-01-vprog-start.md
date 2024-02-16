@@ -36,4 +36,4 @@ The sessions are held online, on Discord. We run both a Hungarian and an English
 
 **Contact**: [Viktória Nemkin](https://cs.bme.hu/~nemkin) ([nemkin@cs.bme.hu](mailto:nemkin@cs.bme.hu))
 
-**Site**: [http://vprog.hu/](http://vprog.hu/)
+**Site**: [http://vprog.hu](http://vprog.hu)

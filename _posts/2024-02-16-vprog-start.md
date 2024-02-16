@@ -40,4 +40,4 @@ Language is English by default, unless only Hungarians are present.
 
 **Contact**: [Viktória Nemkin](https://cs.bme.hu/~nemkin) ([nemkin@cs.bme.hu](mailto:nemkin@cs.bme.hu))
 
-**Site**: [http://vprog.hu/](http://vprog.hu/)
+**Site**: [http://vprog.hu](http://vprog.hu)
