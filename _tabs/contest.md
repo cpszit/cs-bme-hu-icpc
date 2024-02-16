@@ -16,8 +16,6 @@ Practicing this sport will train you to think and code fast under pressure, enha
 
 The International Collegiate Programming Contest, known as the ICPC, is one of the oldest, largest, and most prestigious competitive programming contests among the universities of the world.
 
-### Default (with caption)
-
 ![ICPC World Finals 2021, Dhaka, Bangladesh](/assets/tabs/contest/icpc.jpg)
 _ICPC World Finals 2021, Dhaka, Bangladesh_
 
