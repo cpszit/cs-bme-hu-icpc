@@ -4,6 +4,11 @@ icon: fa-solid fa-chalkboard-user
 order: 1
 ---
 
+## Links
+
+- **Site**: [https://vprog.hu](https://vprog.hu)
+- **Discord**: [https://vprog.hu/discord](https://vprog.hu/discord)
+
 ## Calendar
 
 <iframe 
