@@ -4,7 +4,7 @@
   <id>https://cpszit.github.io/cs-bme-icpc-new/</id>
   <title>ICPC @ SZIT</title>
   <subtitle>Competitive programming and the ICPC contest at BME VIK SZIT.</subtitle>
-  <updated>2024-02-16T22:30:29+01:00</updated>
+  <updated>2024-02-16T22:32:14+01:00</updated>
   <author>
     <name>CpSZIT</name>
     <uri>https://cpszit.github.io/cs-bme-icpc-new/</uri>
@@ -62,9 +62,9 @@
 
   
     
-    <category term="vprog" />
+    <category term="icpc" />
     
-    <category term="starting" />
+    <category term="results" />
     
   
 
@@ -90,9 +90,7 @@
 
   
     
-    <category term="vprog" />
-    
-    <category term="starting" />
+    <category term="icpc" />
     
   
 
