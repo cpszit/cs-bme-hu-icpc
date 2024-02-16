@@ -4,7 +4,7 @@
   <id>https://cpszit.github.io/cs-bme-icpc-new/</id>
   <title>ICPC @ SZIT</title>
   <subtitle>Competitive programming and the ICPC contest at BME VIK SZIT.</subtitle>
-  <updated>2024-02-16T22:29:53+01:00</updated>
+  <updated>2024-02-16T22:30:29+01:00</updated>
   <author>
     <name>CpSZIT</name>
     <uri>https://cpszit.github.io/cs-bme-icpc-new/</uri>
@@ -98,6 +98,34 @@
 
   
     <summary>Registration to the 1st Round of ICPC.</summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>VProg Student Club</title>
+    <link href="https://cpszit.github.io/cs-bme-icpc-new/posts/2023-09-01-vprog-start/" rel="alternate" type="text/html" title="VProg Student Club" />
+    <published>2023-09-01T09:00:00+02:00</published>
+  
+    <updated>2023-09-01T09:00:00+02:00</updated>
+  
+    <id>https://cpszit.github.io/cs-bme-icpc-new/posts/2023-09-01-vprog-start/</id>
+    <content src="https://cpszit.github.io/cs-bme-icpc-new/posts/2023-09-01-vprog-start/" />
+    <author>
+      <name>nemkin</name>
+    </author>
+
+  
+    
+    <category term="vprog" />
+    
+    <category term="starting" />
+    
+  
+
+  
+    <summary>Fall 2023</summary>
   
 
   </entry>
