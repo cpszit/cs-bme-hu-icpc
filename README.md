@@ -1,1 +1,1 @@
-# cs-bme-icpc-new
+# cs-bme-hu-icpc
