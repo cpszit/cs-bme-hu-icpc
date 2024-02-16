@@ -1,8 +1,8 @@
 ---
 layout: post
 author: nemkin
-title: 'VProg Student Group'
-summary: 'Starting!'
+title: 'VProg Student Club'
+summary: 'Spring 2024'
 date: 2024-02-16 14:31:00 +0100
 categories: [vprog, starting]
 keywords: vprog, starting
@@ -12,8 +12,32 @@ tags:
 math: false
 ---
 
-Starting!
+![Balloons](https://vprog.hu/assets/img/balloons-cartoon.png){: width="200" .w-50 .left}
 
-## Time
+The VProg competitive programming study groups are continued this semester, organized by [BME VIK SZIT](https://cs.bme.hu/english)!
 
-When.
+The study groups' aim is to work together on improving our competitive programming skills and expanding our knowledge on data structures and algorithms. We solve LeetCode-style exercises on platforms such as Codeforces, SPOJ, etc, in a ['mob programming'](https://en.wikipedia.org/wiki/Team_programming#Mob_programming) format, mostly using C++ and Python.
+
+We welcome anyone who is interested in competitive programming!
+
+We run two levels:
+
+- **VProg Introductory**: Recommended for those, who have some basic knowledge in algorithms, such as sorting, binary search, graph travelsals, shortest path, etc and basic programming skills.
+- **VProg Advanced**: Recommended for those, who have done competitive programming in the past (e.g. Nemes Tihamér, OKTV Programming, CEOI, IOI, Codeforces).
+
+Language is English by default, unless only Hungarians are present.
+
+## Coordinates
+
+- **VProg Advanced**: Mondays 12:15 - 15:00 and Wednesdays 14:15 - 17:00
+  - Starting on 19 February, 2024
+  - Live @ BME, in room IB134.
+- **VProg Introductory**: Fridays 16:00 - 18:00
+  - Starting on 23 February, 2024
+  - Online, on Discord.
+
+**Discord**: [https://vprog.hu/discord](https://vprog.hu/discord)
+
+**Contact**: [Viktória Nemkin](https://cs.bme.hu/~nemkin) ([nemkin@cs.bme.hu](mailto:nemkin@cs.bme.hu))
+
+**Site**: [http://vprog.hu/](http://vprog.hu/)
