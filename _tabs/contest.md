@@ -1,5 +1,5 @@
 ---
 title: Contest
-icon: fa-solid fa-seedling
+icon: fa-solid fa-trophy
 order: 2
 ---
