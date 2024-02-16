@@ -36,4 +36,4 @@ This is key.
 - [BSZ1](http://cs.bme.hu/bsz1/jegyzet/bsz1_jegyzet.pdf),
   [BSZ2](http://cs.bme.hu/bsz2/bsz2_jegyzet.pdf) és
   [NESZ](http://www.cs.bme.hu/~fleiner/jegyzet/NESZ.pdf) jegyzet.
-- Segédletek C és C++ programozáshoz: [https://infoc.eet.bme.hu](InfoC porta), [CPP FTW](https://prog2.cppftw.org)
+- Segédletek C és C++ programozáshoz: [InfoC porta](https://infoc.eet.bme.hu), [CPP FTW](https://prog2.cppftw.org)
