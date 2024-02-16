@@ -44,7 +44,7 @@ Your team must meet the following criteria:
   - Contest: 10:00 am - 3:00pm
 - **Location**:
   - Building: [Lágymányosi ELTE Campus, Southern Block](https://goo.gl/maps/c3KgQrZBMH2mBtmq5)
-  - Room: [0.308 (Lovarda)](/assets/img/elte_ik_deli_epulet_lovarda.jpg)
+  - Room: [0.308 (Lovarda)]({{ site.baseurl }}/assets/img/elte_ik_deli_epulet_lovarda.jpg)
 
 ## 2nd Round: Central European Regional Contest
 
