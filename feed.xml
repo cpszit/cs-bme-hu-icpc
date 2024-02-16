@@ -1,33 +1,33 @@
 
 
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>https://cpszit.github.io/cs-bme-icpc-new/</id>
+  <id>https://cpszit.github.io/cs-bme-hu-icpc/</id>
   <title>ICPC @ SZIT</title>
   <subtitle>Competitive programming and the ICPC contest at BME VIK SZIT.</subtitle>
-  <updated>2024-02-16T22:54:43+01:00</updated>
+  <updated>2024-02-16T22:55:56+01:00</updated>
   <author>
     <name>CpSZIT</name>
-    <uri>https://cpszit.github.io/cs-bme-icpc-new/</uri>
+    <uri>https://cpszit.github.io/cs-bme-hu-icpc/</uri>
   </author>
-  <link rel="self" type="application/atom+xml" href="https://cpszit.github.io/cs-bme-icpc-new/feed.xml"/>
+  <link rel="self" type="application/atom+xml" href="https://cpszit.github.io/cs-bme-hu-icpc/feed.xml"/>
   <link rel="alternate" type="text/html" hreflang="en"
-    href="https://cpszit.github.io/cs-bme-icpc-new/"/>
+    href="https://cpszit.github.io/cs-bme-hu-icpc/"/>
   <generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator>
   <rights> © 2024 CpSZIT </rights>
-  <icon>/cs-bme-icpc-new/assets/img/favicons/favicon.ico</icon>
-  <logo>/cs-bme-icpc-new/assets/img/favicons/favicon-96x96.png</logo>
+  <icon>/cs-bme-hu-icpc/assets/img/favicons/favicon.ico</icon>
+  <logo>/cs-bme-hu-icpc/assets/img/favicons/favicon-96x96.png</logo>
 
 
   
   <entry>
     <title>VProg Student Club</title>
-    <link href="https://cpszit.github.io/cs-bme-icpc-new/posts/2024-02-16-vprog-start/" rel="alternate" type="text/html" title="VProg Student Club" />
+    <link href="https://cpszit.github.io/cs-bme-hu-icpc/posts/2024-02-16-vprog-start/" rel="alternate" type="text/html" title="VProg Student Club" />
     <published>2024-02-16T14:31:00+01:00</published>
   
     <updated>2024-02-16T14:31:00+01:00</updated>
   
-    <id>https://cpszit.github.io/cs-bme-icpc-new/posts/2024-02-16-vprog-start/</id>
-    <content src="https://cpszit.github.io/cs-bme-icpc-new/posts/2024-02-16-vprog-start/" />
+    <id>https://cpszit.github.io/cs-bme-hu-icpc/posts/2024-02-16-vprog-start/</id>
+    <content src="https://cpszit.github.io/cs-bme-hu-icpc/posts/2024-02-16-vprog-start/" />
     <author>
       <name>nemkin</name>
     </author>
@@ -49,13 +49,13 @@
   
   <entry>
     <title>ICPC Hungary 2023 results</title>
-    <link href="https://cpszit.github.io/cs-bme-icpc-new/posts/2023-10-14-icpc-hungary-results/" rel="alternate" type="text/html" title="ICPC Hungary 2023 results" />
+    <link href="https://cpszit.github.io/cs-bme-hu-icpc/posts/2023-10-14-icpc-hungary-results/" rel="alternate" type="text/html" title="ICPC Hungary 2023 results" />
     <published>2023-10-14T21:30:00+02:00</published>
   
     <updated>2023-10-14T21:30:00+02:00</updated>
   
-    <id>https://cpszit.github.io/cs-bme-icpc-new/posts/2023-10-14-icpc-hungary-results/</id>
-    <content src="https://cpszit.github.io/cs-bme-icpc-new/posts/2023-10-14-icpc-hungary-results/" />
+    <id>https://cpszit.github.io/cs-bme-hu-icpc/posts/2023-10-14-icpc-hungary-results/</id>
+    <content src="https://cpszit.github.io/cs-bme-hu-icpc/posts/2023-10-14-icpc-hungary-results/" />
     <author>
       <name>nemkin</name>
     </author>
@@ -77,13 +77,13 @@
   
   <entry>
     <title>ICPC 2023 Registration</title>
-    <link href="https://cpszit.github.io/cs-bme-icpc-new/posts/2023-09-28-icpc-hungary-registration/" rel="alternate" type="text/html" title="ICPC 2023 Registration" />
+    <link href="https://cpszit.github.io/cs-bme-hu-icpc/posts/2023-09-28-icpc-hungary-registration/" rel="alternate" type="text/html" title="ICPC 2023 Registration" />
     <published>2023-09-28T21:30:00+02:00</published>
   
     <updated>2023-09-28T21:30:00+02:00</updated>
   
-    <id>https://cpszit.github.io/cs-bme-icpc-new/posts/2023-09-28-icpc-hungary-registration/</id>
-    <content src="https://cpszit.github.io/cs-bme-icpc-new/posts/2023-09-28-icpc-hungary-registration/" />
+    <id>https://cpszit.github.io/cs-bme-hu-icpc/posts/2023-09-28-icpc-hungary-registration/</id>
+    <content src="https://cpszit.github.io/cs-bme-hu-icpc/posts/2023-09-28-icpc-hungary-registration/" />
     <author>
       <name>nemkin</name>
     </author>
@@ -103,13 +103,13 @@
   
   <entry>
     <title>VProg Student Club</title>
-    <link href="https://cpszit.github.io/cs-bme-icpc-new/posts/2023-09-01-vprog-start/" rel="alternate" type="text/html" title="VProg Student Club" />
+    <link href="https://cpszit.github.io/cs-bme-hu-icpc/posts/2023-09-01-vprog-start/" rel="alternate" type="text/html" title="VProg Student Club" />
     <published>2023-09-01T09:00:00+02:00</published>
   
     <updated>2023-09-01T09:00:00+02:00</updated>
   
-    <id>https://cpszit.github.io/cs-bme-icpc-new/posts/2023-09-01-vprog-start/</id>
-    <content src="https://cpszit.github.io/cs-bme-icpc-new/posts/2023-09-01-vprog-start/" />
+    <id>https://cpszit.github.io/cs-bme-hu-icpc/posts/2023-09-01-vprog-start/</id>
+    <content src="https://cpszit.github.io/cs-bme-hu-icpc/posts/2023-09-01-vprog-start/" />
     <author>
       <name>nemkin</name>
     </author>

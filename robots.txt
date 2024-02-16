@@ -2,4 +2,4 @@ User-agent: *
 
 Disallow: /norobots/
 
-Sitemap: https://cpszit.github.io/cs-bme-icpc-new/sitemap.xml
+Sitemap: https://cpszit.github.io/cs-bme-hu-icpc/sitemap.xml
