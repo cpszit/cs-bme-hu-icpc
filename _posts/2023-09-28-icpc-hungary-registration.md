@@ -1,7 +1,7 @@
 ---
 layout: post
 author: nemkin
-title: 'ICPC Hungary 2023 registration'
+title: 'ICPC 2023 Registration'
 summary: 'Registration to the 1st Round of ICPC.'
 date: 2023-09-28 20:30:00 +0100
 categories: [vprog, starting]
@@ -12,11 +12,13 @@ tags:
 math: false
 ---
 
-The Hungarian Qualification round will be on **14 October, 2023**.
+## 1st Round: Hungarian Qualifications
 
-Organized by ELTE: [http://versenyek.inf.elte.hu/2023/09/28/icpc-2023/](http://versenyek.inf.elte.hu/2023/09/28/icpc-2023/)
+The 1st round will be held on **14 October, 2023**, organized by ELTE.
 
-## Registration
+[http://versenyek.inf.elte.hu/2023/09/28/icpc-2023/](http://versenyek.inf.elte.hu/2023/09/28/icpc-2023/)
+
+### Registration
 
 [https://forms.gle/y6WwLRJiPp2mdeYk7](https://forms.gle/y6WwLRJiPp2mdeYk7)
 
@@ -26,7 +28,7 @@ Looking for teammates? Join us on [Discord](https://vprog.hu/discord) and make a
 
 **Contact for BME teams**: [Katalin Friedl](http://www.cs.bme.hu/~friedl) ([friedl@cs.bme.hu](mailto:friedl@cs.bme.hu))
 
-## Eligibility criteria
+### Eligibility criteria
 
 Your team must meet the following criteria:
 
@@ -34,9 +36,7 @@ Your team must meet the following criteria:
 - All members are currently enrolled at BME (Erasmus students, please email us).
 - All members began post-secondary studies in 2019 or later OR were born in 2000 or later.
 
-**The top 2 eligible teams from BME advance to the next round.**
-
-## Coordinates
+### Coordinates
 
 - **Date**: 14 Oct. 2023
 - **Time**:
@@ -45,3 +45,13 @@ Your team must meet the following criteria:
 - **Location**:
   - Building: [Lágymányosi ELTE Campus, Southern Block](https://goo.gl/maps/c3KgQrZBMH2mBtmq5)
   - Room: [0.308 (Lovarda)](/assets/img/elte_ik_deli_epulet_lovarda.jpg)
+
+## 2nd Round: Central European Regional Contest
+
+**The top 2 eligible teams from BME advance to the next round.**
+
+The CERC will be held between 8-10 December, 2023</div> in Ljubljana, Slovenia, by the [University of Ljubljana, Faculty of Computer and Information Science](https://goo.gl/maps/ykUS8cy3s8FL17rN9).
+
+[https://cerc.acm.si/](https://cerc.acm.si/)
+
+Travel and stay is organized and funded by BME for the 2 eligible teams.
