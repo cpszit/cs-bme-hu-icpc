@@ -10,7 +10,7 @@ Competitive programming is a mental sport (just like chess), where participants 
 
 Judging of the solutions is based on a large set of hidden testcases, for each of which the program must return the correct solution under a very tight time and memory limit. In order to pass these testcases, participants must employ their knowledge of various data structures and algorithms.
 
-Practicing this sport will train you to think and code fast under pressure, enhance your problem solving skills, find bugs and edge cases in code quicker, understand the workings of complex algorithms and come up with creative solutions to problems. - All of these skills translate well into any field in IT and will prepare you for FAANG interviews too. Also, it is fun!
+Practicing this sport will train you to think and code fast under pressure, enhance your problem solving skills, find bugs and edge cases in code quicker, understand the workings of complex algorithms and come up with creative solutions to problems. All of these skills translate well into any field in IT and will prepare you for FAANG interviews too. Also, it is fun!
 
 ## ICPC
 
@@ -19,9 +19,9 @@ The International Collegiate Programming Contest, known as the ICPC, is one of t
 ### Default (with caption)
 
 ![ICPC World Finals 2021, Dhaka, Bangladesh](/assets/tabs/contest/icpc.jpg)
-[_ICPC World Finals 2021, Dhaka, Bangladesh_](https://news.icpc.global/gallery/)
+_ICPC World Finals 2021, Dhaka, Bangladesh_
 
-The competition is open to teams of three, who are currently enrolled at the same university and all members meet the [eligibility requirements](https://cerc.acm.si/#participation)</a>. The teams have 5 hours to work on 10-12 exercises, using a single computer, provided by the organizers. Using hand-written or printed materials is allowed, however other electronic devices (phones, calculators, pendrives) and the Internet are not.
+The competition is open to teams of three, who are currently enrolled at the same university and all members meet the [eligibility requirements](https://cerc.acm.si/#participation). The teams have 5 hours to work on 10-12 exercises, using a single computer, provided by the organizers. Using hand-written or printed materials is allowed, however other electronic devices (phones, calculators, pendrives) and the Internet are not.
 
 There are three tiers of the competition:
 
