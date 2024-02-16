@@ -29,7 +29,7 @@ During the contest, the teams had to solve 12 challenging algorithmical problems
 [**I**](https://cpszit.github.io/competitions/2023-10-14-icpc-hungary/i.pdf),
 [**J**](https://cpszit.github.io/competitions/2023-10-14-icpc-hungary/j.pdf),
 [**K**](https://cpszit.github.io/competitions/2023-10-14-icpc-hungary/k.pdf),
-[**L**](https://cpszit.github.io/competitions/2023-10-14-icpc-hungary/l.pdf),
+[**L**](https://cpszit.github.io/competitions/2023-10-14-icpc-hungary/l.pdf)
 
 ## Results from BME
 
