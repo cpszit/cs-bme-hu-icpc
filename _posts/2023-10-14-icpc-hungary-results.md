@@ -3,7 +3,7 @@ layout: post
 author: nemkin
 title: 'ICPC Hungary 2023 results'
 summary: 'Results of the national ICPC competition.'
-date: 2024-02-16 14:31:00 +0100
+date: 2023-10-14 20:30:00 +0100
 categories: [vprog, starting]
 keywords: vprog, starting
 tags: 
