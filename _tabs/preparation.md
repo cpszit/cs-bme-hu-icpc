@@ -4,9 +4,7 @@ icon: fa-solid fa-scroll
 order: 3
 ---
 
-## Preparation
-
-### Mentality
+## Mentality
 
 This is key.
 
@@ -16,9 +14,9 @@ This is key.
 - **Don't let other people's success demotivate you.** No matter how good you get, there will always be people, who are better than you. It can be easy to feel stupid in comparison and envy those people, especially when they are your peers. Don't let this discourage you from your goals. Feel proud of what you have accomplished so far and instead of comparing you to everybody else, try to outdo yourself. Also, I encourage you to reach out and befriend these people instead. You might be surprised to learn, that they are approachable, friendly and may feel just like you do.
 - **Ask for help.** If you're stuck with a problem or a concept, don't waste your time with it way too long. Ask other people to help you, so you can go onto learning the next topic instead. We are building a community of competitive programmers on Discord, make sure to [join us](https://vprog.hu/discord), if you're interested. :)
 
-### Materials
+## Materials
 
-#### English
+### English
 
 - A very extensive topic list, for reference: [GeeksForGeeks: How to prepare for ACM - ICPC?](https://www.geeksforgeeks.org/how-to-prepare-for-acm-icpc)
 - Explanations and source code: [cp-algorithms.com](https://cp-algorithms.com)
@@ -31,7 +29,7 @@ This is key.
 - Competitions and practice problems: [Codeforces](https://codeforces.com)
 - More practice problems:  [SPOJ](https://www.spoj.com), [Advent of Code](https://adventofcode.com)
 
-#### Hungarian
+### Hungarian
 
 - [BSZ1](http://cs.bme.hu/bsz1/jegyzet/bsz1_jegyzet.pdf),
   [BSZ2](http://cs.bme.hu/bsz2/bsz2_jegyzet.pdf) és
