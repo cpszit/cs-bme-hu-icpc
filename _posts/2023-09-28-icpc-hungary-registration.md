@@ -42,7 +42,7 @@ Your team must meet the following criteria:
 - **Date**: 14 Oct. 2023
 - **Time**:
   - Instructions, Practice Round: 9:00 am - 10:00 am
-  - Contest: 10:00 am - 3:00pm
+  - Contest: 10:00 am - 3:00 pm
 - **Location**:
   - Building: [Lágymányosi ELTE Campus, Southern Block](https://goo.gl/maps/c3KgQrZBMH2mBtmq5)
   - Room: [0.308 (Lovarda)]({{ site.baseurl }}/assets/img/elte_ik_deli_epulet_lovarda.jpg)
