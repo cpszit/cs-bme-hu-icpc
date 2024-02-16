@@ -3,7 +3,7 @@ layout: post
 author: nemkin
 title: 'VProg Student Club'
 summary: 'Fall 2023'
-date: 2024-09-01 08:00:00 +0100
+date: 2023-09-01 08:00:00 +0100
 categories: [vprog, starting]
 keywords: vprog, starting
 tags: 
