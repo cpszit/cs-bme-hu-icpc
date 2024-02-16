@@ -4,7 +4,7 @@
   <id>https://cpszit.github.io/cs-bme-icpc-new/</id>
   <title>ICPC @ SZIT</title>
   <subtitle>Competitive programming and the ICPC contest at BME VIK SZIT.</subtitle>
-  <updated>2024-02-16T21:27:26+01:00</updated>
+  <updated>2024-02-16T21:39:21+01:00</updated>
   <author>
     <name>CpSZIT</name>
     <uri>https://cpszit.github.io/cs-bme-icpc-new/</uri>
@@ -42,6 +42,34 @@
 
   
     <summary>Spring 2024</summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>ICPC Hungary 2023 results</title>
+    <link href="https://cpszit.github.io/cs-bme-icpc-new/posts/2024-02-16-icpc-hungary-results/" rel="alternate" type="text/html" title="ICPC Hungary 2023 results" />
+    <published>2024-02-16T14:31:00+01:00</published>
+  
+    <updated>2024-02-16T14:31:00+01:00</updated>
+  
+    <id>https://cpszit.github.io/cs-bme-icpc-new/posts/2024-02-16-icpc-hungary-results/</id>
+    <content src="https://cpszit.github.io/cs-bme-icpc-new/posts/2024-02-16-icpc-hungary-results/" />
+    <author>
+      <name>nemkin</name>
+    </author>
+
+  
+    
+    <category term="vprog" />
+    
+    <category term="starting" />
+    
+  
+
+  
+    <summary>Results of the national ICPC competition.</summary>
   
 
   </entry>
