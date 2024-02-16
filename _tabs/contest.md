@@ -18,7 +18,7 @@ The International Collegiate Programming Contest, known as the ICPC, is one of t
 
 ### Default (with caption)
 
-![ICPC World Finals 2021, Dhaka, Bangladesh]({{ site.baseurl }}/assets/tabs/contest/icpc.jpg)
+![ICPC World Finals 2021, Dhaka, Bangladesh](/assets/tabs/contest/icpc.jpg)
 [_ICPC World Finals 2021, Dhaka, Bangladesh_](https://news.icpc.global/gallery/)
 
 The competition is open to teams of three, who are currently enrolled at the same university and all members meet the [eligibility requirements](https://cerc.acm.si/#participation)</a>. The teams have 5 hours to work on 10-12 exercises, using a single computer, provided by the organizers. Using hand-written or printed materials is allowed, however other electronic devices (phones, calculators, pendrives) and the Internet are not.
