@@ -4,11 +4,11 @@ author: nemkin
 title: 'ICPC Hungary 2023 results'
 summary: 'Results of the national ICPC competition.'
 date: 2023-10-14 20:30:00 +0100
-categories: [vprog, starting]
-keywords: vprog, starting
-tags: 
- - vprog
- - starting
+categories: [icpc, results]
+keywords: icpc, results, competition
+tags:
+ - icpc
+ - results
 math: false
 ---
 

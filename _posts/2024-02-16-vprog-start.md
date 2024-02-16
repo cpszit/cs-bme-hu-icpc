@@ -6,7 +6,7 @@ summary: 'Spring 2024'
 date: 2024-02-16 14:31:00 +0100
 categories: [vprog, starting]
 keywords: vprog, starting
-tags: 
+tags:
  - vprog
  - starting
 math: false

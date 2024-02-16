@@ -4,11 +4,12 @@ author: nemkin
 title: 'ICPC 2023 Registration'
 summary: 'Registration to the 1st Round of ICPC.'
 date: 2023-09-28 20:30:00 +0100
-categories: [vprog, starting]
-keywords: vprog, starting
-tags: 
- - vprog
- - starting
+categories: [icpc]
+keywords: icpc, registration, competition
+tags:
+ - icpc
+ - registration
+ - competition
 math: false
 ---
 
