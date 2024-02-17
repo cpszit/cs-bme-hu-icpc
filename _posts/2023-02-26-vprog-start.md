@@ -24,7 +24,7 @@ The sessions are online, on Discord.
 
 ## First session
 
-- **Time**: March 10, 2023 (Friday) 3:00 PM - 5:00 PM
+- **Time**: 2023 March 10 (Friday) 15:00 - 17:00
 - **Join**: [https://vprog.hu/discord](https://vprog.hu/discord)
 
 ## Kapcsolat

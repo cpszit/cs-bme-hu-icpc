@@ -30,14 +30,12 @@ Language is English by default, unless only Hungarians are present.
 ## Coordinates
 
 - **VProg Advanced**: Mondays 12:15 - 15:00 and Wednesdays 14:15 - 17:00
-  - Starting on 19 February, 2024
+  - Starting on 2024 February 19.
   - Live @ BME, in room IB134.
 - **VProg Introductory**: Fridays 16:00 - 18:00
-  - Starting on 23 February, 2024
+  - Starting on 2024 February 23.
   - Online, on Discord.
 
-**Discord**: [https://vprog.hu/discord](https://vprog.hu/discord)
+**Join us on Discord**: [https://vprog.hu/discord](https://vprog.hu/discord)
 
 **Contact**: [Viktória Nemkin](https://cs.bme.hu/~nemkin) ([nemkin@cs.bme.hu](mailto:nemkin@cs.bme.hu))
-
-**Site**: [http://vprog.hu](http://vprog.hu)

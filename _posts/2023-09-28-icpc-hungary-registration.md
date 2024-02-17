@@ -15,7 +15,7 @@ math: false
 
 ## 1st Round: Hungarian Qualifications
 
-The 1st round will be held on **14 October, 2023**, organized by ELTE.
+The 1st round will be held on **2023 October 14**, organized by ELTE.
 
 [http://versenyek.inf.elte.hu/2023/09/28/icpc-2023/](http://versenyek.inf.elte.hu/2023/09/28/icpc-2023/)
 
@@ -23,7 +23,7 @@ The 1st round will be held on **14 October, 2023**, organized by ELTE.
 
 [https://forms.gle/y6WwLRJiPp2mdeYk7](https://forms.gle/y6WwLRJiPp2mdeYk7)
 
-**Deadline: 10 Oct. 2023**
+**Deadline**: 2023 October 10
 
 Looking for teammates? Join us on [Discord](https://vprog.hu/discord) and make a post in the *#find-a-teammate* channel!
 
@@ -39,10 +39,10 @@ Your team must meet the following criteria:
 
 ### Coordinates
 
-- **Date**: 14 Oct. 2023
+- **Date**: 2023 October 14
 - **Time**:
-  - Instructions, Practice Round: 9:00 am - 10:00 am
-  - Contest: 10:00 am - 3:00 pm
+  - Instructions, Practice Round: 9:00 - 10:00
+  - Contest: 10:00 - 15:00
 - **Location**:
   - Building: [Lágymányosi ELTE Campus, Southern Block](https://goo.gl/maps/c3KgQrZBMH2mBtmq5)
   - Room: [0.308 (Lovarda)]({{ site.baseurl }}/assets/img/elte_ik_deli_epulet_lovarda.jpg)
@@ -51,7 +51,7 @@ Your team must meet the following criteria:
 
 **The top 2 eligible teams from BME advance to the next round.**
 
-The CERC will be held between 8-10 December, 2023 in Ljubljana, Slovenia, by the [University of Ljubljana, Faculty of Computer and Information Science](https://maps.app.goo.gl/w745vg7XRnDmQxbe9).
+The CERC will be held between 2023 December 8-10 in Ljubljana, Slovenia, by the [University of Ljubljana, Faculty of Computer and Information Science](https://maps.app.goo.gl/w745vg7XRnDmQxbe9).
 
 [https://cerc.acm.si/](https://cerc.acm.si/)
 

@@ -24,16 +24,14 @@ The sessions are held online, on Discord. We run both a Hungarian and an English
 
 ## Coordinates
 
-- **VProg-HU**: Fridays, 4:00 pm - 6:00 pm (Budapest time)
-  - starting on 15 Sept. 2023
-  - Hungarian-speaking
+- **VProg-HU**: Fridays, 16:00 - 18:00
+  - Starting on 2023 September 15.
+  - Hungarian-speaking.
 
-- **VProg-EN**: Mondays, 5:30 pm - 7:30 pm (Budapest time)
-  - starting on 11 Sept. 2023
-  - English-speaking
+- **VProg-EN**: Mondays, 17:30 - 19:30
+  - starting on 2023 September 11.
+  - English-speaking.
 
-**Discord**: [https://vprog.hu/discord](https://vprog.hu/discord)
+**Join us on Discord**: [https://vprog.hu/discord](https://vprog.hu/discord)
 
 **Contact**: [Viktória Nemkin](https://cs.bme.hu/~nemkin) ([nemkin@cs.bme.hu](mailto:nemkin@cs.bme.hu))
-
-**Site**: [http://vprog.hu](http://vprog.hu)

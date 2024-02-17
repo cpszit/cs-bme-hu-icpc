@@ -16,7 +16,7 @@ The competitive programming (ACM ICPC, Google Code Jam, Codeforces, etc) study g
 
 ## Coordinates
 
-- **Time**: Weekly on Friday, 3 PM - 4:30 PM
+- **Time**: Weekly on Friday, 15:00 - 16:30.
 - **Location**: This semester is online, on Zoom.
 
 The study group is open to everyone: beginners and advanced students, students from other universities, and others outside of the university are also welcomed. :)
