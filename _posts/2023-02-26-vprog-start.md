@@ -27,7 +27,7 @@ The sessions are online, on Discord.
 - **Time**: 2023 March 10 (Friday) 15:00 - 17:00
 - **Join**: [https://vprog.hu/discord](https://vprog.hu/discord)
 
-## Kapcsolat
+## Contact
 
 - **Site**: [https://versenyprogramozas.hu/](https://versenyprogramozas.hu/)
 - **E-mail**: [nemkin@cs.bme.hu](mailto:nemkin@cs.bme.hu)
