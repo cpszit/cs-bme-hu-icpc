@@ -11,7 +11,7 @@ const resource = [
   '/cs-bme-hu-icpc/404.html',
 
   
-    '/cs-bme-hu-icpc/student-group/',
+    '/cs-bme-hu-icpc/student-club/',
   
     '/cs-bme-hu-icpc/contest/',
   
