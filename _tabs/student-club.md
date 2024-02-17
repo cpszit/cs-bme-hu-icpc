@@ -6,17 +6,7 @@ order: 1
 
 Versenyprogramozás (VProg) is a student club we run for college level competitive programming.
 
-## Announcements
-
-- [Spring 2024]({{ site.baseurl }}/posts/2024-02-16-vprog-start)
-- [Fall 2023]({{ site.baseurl }}/posts/2023-09-01-vprog-start)
-- [Spring 2023]({{ site.baseurl }}/posts/2023-02-26-vprog-start)
-- [Fall 2022]({{ site.baseurl }}/posts/2022-09-01-vprog-start)
-
-## Links
-
-- **Site**: [https://vprog.hu](https://vprog.hu)
-- **Discord**: [https://vprog.hu/discord](https://vprog.hu/discord)
+**Join us on Discord**: [https://vprog.hu/discord](https://vprog.hu/discord)
 
 ## Calendar
 
@@ -30,3 +20,10 @@ See upcoming meetings here:
   frameborder="0"
   scrolling="no">
 </iframe>
+
+## Announcements
+
+- [Spring 2024]({{ site.baseurl }}/posts/2024-02-16-vprog-start)
+- [Fall 2023]({{ site.baseurl }}/posts/2023-09-01-vprog-start)
+- [Spring 2023]({{ site.baseurl }}/posts/2023-02-26-vprog-start)
+- [Fall 2022]({{ site.baseurl }}/posts/2022-09-01-vprog-start)
