@@ -6,7 +6,7 @@ order: 8
 
 ### Dr. Katalin Friedl
 
-associate professor
+associate professor  
 [IB137/a](https://www.szit.bme.hu/rolunk/kapcsolat.html)  
 [friedl(at)cs.bme.hu](mailto:friedl@cs.bme.hu)  
 [cs.bme.hu/~friedl](https://cs.bme.hu/~friedl)
