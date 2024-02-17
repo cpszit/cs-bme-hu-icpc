@@ -27,7 +27,7 @@ The 1st round will be held on **2023 October 14**, organized by ELTE.
 
 Looking for teammates? Join us on [Discord](https://vprog.hu/discord) and make a post in the *#find-a-teammate* channel!
 
-**Contact for BME teams**: [Katalin Friedl](http://www.cs.bme.hu/~friedl) ([friedl@cs.bme.hu](mailto:friedl@cs.bme.hu))
+**Contact for BME teams**: [Dr. Katalin Friedl](http://www.cs.bme.hu/~friedl) ([friedl@cs.bme.hu](mailto:friedl@cs.bme.hu))
 
 ### Eligibility criteria
 
