@@ -16,7 +16,7 @@ As the Central Europe Regional Contest of the ICPC concludes, we congratulate ou
 
 In December 2023, our university competed against teams from eight countries across Europe. Team LSZ with Levente Gegő, Soma Szatmári and Zoltán Szatmáry secured the 42nd place regionally, while DSU comprising Azam Rakhmatillaev, Benedek Brandschott and Klevis Imeri ranked 57th.
 
-During the contest, the students were tasked with solving [12 challenging exercises](https://cpszit.github.io/competitions/2023-12-10-icpc-cerc.pdf), requiring a deep understanding of data structures and algorithms and the ability to apply these creatively under pressure. The teams had to collaborate effectively, distributing tasks and combining their problem-solving skills to tackle the problems presented.
+During the contest, the students were tasked with solving [12 challenging exercises](https://cpszit.github.io/competitions/2023-12-10-icpc-cerc.pdf), requiring a deep understanding of data structures and algorithms and the ability to apply these creatively under pressure. The teams had to collaborate effectively, distributing tasks and combining their problem-solving skills to tackle the tasks presented.
 
 ![Before the contest](/assets/posts/2024-02-28-icpc-cerc-results/20231209_100824.jpg)
 _Members of both teams before the contest_
