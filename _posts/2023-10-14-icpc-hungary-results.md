@@ -18,18 +18,7 @@ During the contest, the teams had to solve 12 challenging algorithmical problems
 
 ## Problemset
 
-[**A**](https://cpszit.github.io/competitions/2023-10-14-icpc-hungary/a.pdf),
-[**B**](https://cpszit.github.io/competitions/2023-10-14-icpc-hungary/b.pdf),
-[**C**](https://cpszit.github.io/competitions/2023-10-14-icpc-hungary/c.pdf),
-[**D**](https://cpszit.github.io/competitions/2023-10-14-icpc-hungary/d.pdf),
-[**E**](https://cpszit.github.io/competitions/2023-10-14-icpc-hungary/e.pdf),
-[**F**](https://cpszit.github.io/competitions/2023-10-14-icpc-hungary/f.pdf),
-[**G**](https://cpszit.github.io/competitions/2023-10-14-icpc-hungary/g.pdf),
-[**H**](https://cpszit.github.io/competitions/2023-10-14-icpc-hungary/h.pdf),
-[**I**](https://cpszit.github.io/competitions/2023-10-14-icpc-hungary/i.pdf),
-[**J**](https://cpszit.github.io/competitions/2023-10-14-icpc-hungary/j.pdf),
-[**K**](https://cpszit.github.io/competitions/2023-10-14-icpc-hungary/k.pdf),
-[**L**](https://cpszit.github.io/competitions/2023-10-14-icpc-hungary/l.pdf)
+[**ICPC Hungary 2023**](https://cpszit.github.io/competitions/2023-10-14-icpc-hungary.pdf)
 
 ## Results from BME
 
@@ -38,8 +27,6 @@ During the contest, the teams had to solve 12 challenging algorithmical problems
 |   6  |        LSZ       | Levente Gegő, Soma Szatmári, Zoltán Szatmáry          |
 |  18  |        DSU       | Azam Rakhmatillaev, Benedek Brandschott, Klevis Imeri |
 |  21  | TheQuantumHomies | Balkis Karoui, Bhaskar Sharma, Nia Tatrishvili        |
-
-[Full scoreboard](https://icpc-hungary.github.io)
 
 ## During contest
 
