@@ -4,7 +4,7 @@
   <id>https://cpszit.github.io/cs-bme-hu-icpc/</id>
   <title>ICPC @ SZIT</title>
   <subtitle>Competitive programming and the ICPC contest at BME VIK SZIT.</subtitle>
-  <updated>2024-02-28T09:14:03+01:00</updated>
+  <updated>2024-02-28T23:56:40+01:00</updated>
   <author>
     <name>CpSZIT</name>
     <uri>https://cpszit.github.io/cs-bme-hu-icpc/</uri>
@@ -17,6 +17,34 @@
   <icon>/cs-bme-hu-icpc/assets/img/favicons/favicon.ico</icon>
   <logo>/cs-bme-hu-icpc/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>ICPC CERC 2023 results</title>
+    <link href="https://cpszit.github.io/cs-bme-hu-icpc/posts/2024-02-28-icpc-cerc-results/" rel="alternate" type="text/html" title="ICPC CERC 2023 results" />
+    <published>2024-02-28T20:30:00+01:00</published>
+  
+    <updated>2024-02-28T20:30:00+01:00</updated>
+  
+    <id>https://cpszit.github.io/cs-bme-hu-icpc/posts/2024-02-28-icpc-cerc-results/</id>
+    <content src="https://cpszit.github.io/cs-bme-hu-icpc/posts/2024-02-28-icpc-cerc-results/" />
+    <author>
+      <name>nemkin</name>
+    </author>
+
+  
+    
+    <category term="icpc" />
+    
+    <category term="results" />
+    
+  
+
+  
+    <summary>Results of the regional ICPC competition.</summary>
+  
+
+  </entry>
 
   
   <entry>
@@ -124,34 +152,6 @@
 
   
     <summary>Fall 2023</summary>
-  
-
-  </entry>
-
-  
-  <entry>
-    <title>VProg Student Club</title>
-    <link href="https://cpszit.github.io/cs-bme-hu-icpc/posts/2023-02-26-vprog-start/" rel="alternate" type="text/html" title="VProg Student Club" />
-    <published>2023-02-26T19:58:00+01:00</published>
-  
-    <updated>2023-02-26T19:58:00+01:00</updated>
-  
-    <id>https://cpszit.github.io/cs-bme-hu-icpc/posts/2023-02-26-vprog-start/</id>
-    <content src="https://cpszit.github.io/cs-bme-hu-icpc/posts/2023-02-26-vprog-start/" />
-    <author>
-      <name>nemkin</name>
-    </author>
-
-  
-    
-    <category term="vprog" />
-    
-    <category term="starting" />
-    
-  
-
-  
-    <summary>Spring 2023</summary>
   
 
   </entry>
