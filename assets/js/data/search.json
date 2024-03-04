@@ -1,6 +1,23 @@
 [
   
   {
+    "title": "VProlog",
+    "url": "/cs-bme-hu-icpc/posts/2024-03-04-vprolog/",
+    "categories": "vprog, vprolog",
+    "tags": "vprog, vprolog",
+    "date": "2024-03-04 20:00:00 +0100",
+    
+
+
+
+
+
+    
+    "snippet": "This Wednesday on VProg Advanced, we’ll host a special session by Péter Szeredi, a prominent figure indeclarative programming and Prolog in Hungary, a professor from my department, BME VIK SZIT. Pr...",
+    "content": "This Wednesday on VProg Advanced, we’ll host a special session by Péter Szeredi, a prominent figure indeclarative programming and Prolog in Hungary, a professor from my department, BME VIK SZIT. Prolog,short for “Programming in Logic,” emerged in the 1970s for tasks like natural language processing andautomated theorem proving. It remains a popular logic programming language even today.Prolog is an example of Good Old Fashioned AI (GOFAI), a symbolic and rule-based system. In contrast tocurrently popular approaches, such as machine learning and neural networks like ChatGPT, which strugglewith reasoning, Prolog excels at this task. Future AI technologies may combine these approaches into ahybrid system, called a “neuro-symbolic AI”, with Prolog’s reasoning power with ChatGPT’s naturallanguage capabilities.Coordinates  Time: 2024 March 6, Wednesday, 14:15 - 17:00  Place: BME Building I, Room IB134 (Inside the SZIT department on the 1st floor.)"
+  },
+  
+  {
     "title": "ICPC CERC 2023 results",
     "url": "/cs-bme-hu-icpc/posts/2024-02-28-icpc-cerc-results/",
     "categories": "icpc, results",

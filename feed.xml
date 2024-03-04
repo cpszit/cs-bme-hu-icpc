@@ -4,7 +4,7 @@
   <id>https://cpszit.github.io/cs-bme-hu-icpc/</id>
   <title>ICPC @ SZIT</title>
   <subtitle>Competitive programming and the ICPC contest at BME VIK SZIT.</subtitle>
-  <updated>2024-02-29T00:14:19+01:00</updated>
+  <updated>2024-03-04T21:15:14+01:00</updated>
   <author>
     <name>CpSZIT</name>
     <uri>https://cpszit.github.io/cs-bme-hu-icpc/</uri>
@@ -17,6 +17,34 @@
   <icon>/cs-bme-hu-icpc/assets/img/favicons/favicon.ico</icon>
   <logo>/cs-bme-hu-icpc/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>VProlog</title>
+    <link href="https://cpszit.github.io/cs-bme-hu-icpc/posts/2024-03-04-vprolog/" rel="alternate" type="text/html" title="VProlog" />
+    <published>2024-03-04T20:00:00+01:00</published>
+  
+    <updated>2024-03-04T20:00:00+01:00</updated>
+  
+    <id>https://cpszit.github.io/cs-bme-hu-icpc/posts/2024-03-04-vprolog/</id>
+    <content src="https://cpszit.github.io/cs-bme-hu-icpc/posts/2024-03-04-vprolog/" />
+    <author>
+      <name>nemkin</name>
+    </author>
+
+  
+    
+    <category term="vprog" />
+    
+    <category term="vprolog" />
+    
+  
+
+  
+    <summary>On 6 March!</summary>
+  
+
+  </entry>
 
   
   <entry>
@@ -124,34 +152,6 @@
 
   
     <summary>Registration to the 1st Round of ICPC.</summary>
-  
-
-  </entry>
-
-  
-  <entry>
-    <title>VProg Student Club</title>
-    <link href="https://cpszit.github.io/cs-bme-hu-icpc/posts/2023-09-01-vprog-start/" rel="alternate" type="text/html" title="VProg Student Club" />
-    <published>2023-09-01T09:00:00+02:00</published>
-  
-    <updated>2023-09-01T09:00:00+02:00</updated>
-  
-    <id>https://cpszit.github.io/cs-bme-hu-icpc/posts/2023-09-01-vprog-start/</id>
-    <content src="https://cpszit.github.io/cs-bme-hu-icpc/posts/2023-09-01-vprog-start/" />
-    <author>
-      <name>nemkin</name>
-    </author>
-
-  
-    
-    <category term="vprog" />
-    
-    <category term="starting" />
-    
-  
-
-  
-    <summary>Fall 2023</summary>
   
 
   </entry>
