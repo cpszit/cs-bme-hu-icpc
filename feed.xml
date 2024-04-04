@@ -4,7 +4,7 @@
   <id>https://cpszit.github.io/cs-bme-hu-icpc/</id>
   <title>ICPC @ SZIT</title>
   <subtitle>Competitive programming and the ICPC contest at BME VIK SZIT.</subtitle>
-  <updated>2024-03-04T21:21:28+01:00</updated>
+  <updated>2024-04-04T18:13:49+02:00</updated>
   <author>
     <name>CpSZIT</name>
     <uri>https://cpszit.github.io/cs-bme-hu-icpc/</uri>
@@ -17,6 +17,34 @@
   <icon>/cs-bme-hu-icpc/assets/img/favicons/favicon.ico</icon>
   <logo>/cs-bme-hu-icpc/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>Competitive programming for pure mathematics</title>
+    <link href="https://cpszit.github.io/cs-bme-hu-icpc/posts/2024-04-03-pure-math/" rel="alternate" type="text/html" title="Competitive programming for pure mathematics" />
+    <published>2024-04-03T20:57:00+02:00</published>
+  
+    <updated>2024-04-03T20:57:00+02:00</updated>
+  
+    <id>https://cpszit.github.io/cs-bme-hu-icpc/posts/2024-04-03-pure-math/</id>
+    <content src="https://cpszit.github.io/cs-bme-hu-icpc/posts/2024-04-03-pure-math/" />
+    <author>
+      <name>nemkin</name>
+    </author>
+
+  
+    
+    <category term="vprog" />
+    
+    <category term="projects" />
+    
+  
+
+  
+    <summary>On 10 April!</summary>
+  
+
+  </entry>
 
   
   <entry>
@@ -126,32 +154,6 @@
 
   
     <summary>Results of the national ICPC competition.</summary>
-  
-
-  </entry>
-
-  
-  <entry>
-    <title>ICPC 2023 Registration</title>
-    <link href="https://cpszit.github.io/cs-bme-hu-icpc/posts/2023-09-28-icpc-hungary-registration/" rel="alternate" type="text/html" title="ICPC 2023 Registration" />
-    <published>2023-09-28T21:30:00+02:00</published>
-  
-    <updated>2023-09-28T21:30:00+02:00</updated>
-  
-    <id>https://cpszit.github.io/cs-bme-hu-icpc/posts/2023-09-28-icpc-hungary-registration/</id>
-    <content src="https://cpszit.github.io/cs-bme-hu-icpc/posts/2023-09-28-icpc-hungary-registration/" />
-    <author>
-      <name>nemkin</name>
-    </author>
-
-  
-    
-    <category term="icpc" />
-    
-  
-
-  
-    <summary>Registration to the 1st Round of ICPC.</summary>
   
 
   </entry>

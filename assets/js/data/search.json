@@ -1,6 +1,23 @@
 [
   
   {
+    "title": "Competitive programming for pure mathematics",
+    "url": "/cs-bme-hu-icpc/posts/2024-04-03-pure-math/",
+    "categories": "vprog, projects",
+    "tags": "vprog, pure-math, projects",
+    "date": "2024-04-03 20:57:00 +0200",
+    
+
+
+
+
+
+    
+    "snippet": "On April 10, we’ll host a special session by Dániel Varga (Rényi Institute of Mathematics, AI Lab),who works at the intersection of AI and pure mathematics. He will present numerous examples fromhi...",
+    "content": "On April 10, we’ll host a special session by Dániel Varga (Rényi Institute of Mathematics, AI Lab),who works at the intersection of AI and pure mathematics. He will present numerous examples fromhis own work where a problem in pure mathematics (geometry, graph theory, algebra) can be advancedby translating it into an algorithm to find possible solutions to concrete cases. A competitive programmeris in a perfect position to execute such a translation, which is often just a few tens of lines of code,but running that code can provide important insights about the problem, or even solve it completely.The speaker will try to provide an opportunity for the most motivated members of the audience to getinvolved in such work. Although not the main focus of this session, the speaker will talk brieflyabout other research directions pursued at the Rényi AI Lab.Coordinates  Time: 2024 April 10, Wednesday, 14:15 - 17:00  Place: BME Building I, Room IB134 (Inside the SZIT department on the 1st floor.)"
+  },
+  
+  {
     "title": "VProlog",
     "url": "/cs-bme-hu-icpc/posts/2024-03-04-vprolog/",
     "categories": "vprog, vprolog",
