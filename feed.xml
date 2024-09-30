@@ -4,7 +4,7 @@
   <id>https://cpszit.github.io/cs-bme-hu-icpc/</id>
   <title>ICPC @ SZIT</title>
   <subtitle>Competitive programming and the ICPC contest at BME VIK SZIT.</subtitle>
-  <updated>2024-09-30T23:22:11+02:00</updated>
+  <updated>2024-09-30T23:50:09+02:00</updated>
   <author>
     <name>CpSZIT</name>
     <uri>https://cpszit.github.io/cs-bme-hu-icpc/</uri>
@@ -17,6 +17,32 @@
   <icon>/cs-bme-hu-icpc/assets/img/favicons/favicon.ico</icon>
   <logo>/cs-bme-hu-icpc/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>ICPC Hungary 2024</title>
+    <link href="https://cpszit.github.io/cs-bme-hu-icpc/posts/2024-10-01-icpc-hungary/" rel="alternate" type="text/html" title="ICPC Hungary 2024" />
+    <published>2024-10-01T08:00:00+02:00</published>
+  
+    <updated>2024-10-01T08:00:00+02:00</updated>
+  
+    <id>https://cpszit.github.io/cs-bme-hu-icpc/posts/2024-10-01-icpc-hungary/</id>
+    <content src="https://cpszit.github.io/cs-bme-hu-icpc/posts/2024-10-01-icpc-hungary/" />
+    <author>
+      <name>nemkin</name>
+    </author>
+
+  
+    
+    <category term="icpc" />
+    
+  
+
+  
+    <summary>Registration to ICPC Hungary</summary>
+  
+
+  </entry>
 
   
   <entry>
@@ -126,32 +152,6 @@
 
   
     <summary>Results of the national ICPC competition.</summary>
-  
-
-  </entry>
-
-  
-  <entry>
-    <title>ICPC 2023 Registration</title>
-    <link href="https://cpszit.github.io/cs-bme-hu-icpc/posts/2023-09-28-icpc-hungary-registration/" rel="alternate" type="text/html" title="ICPC 2023 Registration" />
-    <published>2023-09-28T21:30:00+02:00</published>
-  
-    <updated>2023-09-28T21:30:00+02:00</updated>
-  
-    <id>https://cpszit.github.io/cs-bme-hu-icpc/posts/2023-09-28-icpc-hungary-registration/</id>
-    <content src="https://cpszit.github.io/cs-bme-hu-icpc/posts/2023-09-28-icpc-hungary-registration/" />
-    <author>
-      <name>nemkin</name>
-    </author>
-
-  
-    
-    <category term="icpc" />
-    
-  
-
-  
-    <summary>Registration to the 1st Round of ICPC.</summary>
   
 
   </entry>
