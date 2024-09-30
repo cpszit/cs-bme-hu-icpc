@@ -51,7 +51,7 @@ Looking for teammates? Join us on [Discord](https://vprog.hu/discord)!
   - Building: [Lágymányosi ELTE Campus, Southern Block](https://goo.gl/maps/c3KgQrZBMH2mBtmq5)
   - Room: [0.308 (Lovarda)]({{ site.baseurl }}/assets/img/elte_ik_deli_epulet_lovarda.jpg)
 
-## 2nd Round: Central European Regional Contest
+## ICPC CERC (Central European Regional Contest)
 
 The round is invitation-only, BME delegates the top 2 teams from ICPC Hungary.
 
