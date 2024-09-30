@@ -19,7 +19,7 @@ students compete, representing their university.
 
 ## ICPC Hungary
 
-The registreation deadline is **2024 October 13**.
+The registration deadline is **2024 October 13**.
 
 ### Eligibility
 
