@@ -41,8 +41,8 @@ const resource = [
     '/cs-bme-hu-icpc/assets/img/favicons/safari-pinned-tab.svg',
     '/cs-bme-hu-icpc/assets/js/dist/categories.min.js',
     '/cs-bme-hu-icpc/assets/js/dist/commons.min.js',
-    '/cs-bme-hu-icpc/assets/js/dist/home.min.js',
     '/cs-bme-hu-icpc/assets/js/dist/misc.min.js',
+    '/cs-bme-hu-icpc/assets/js/dist/news.min.js',
     '/cs-bme-hu-icpc/assets/js/dist/page.min.js',
     '/cs-bme-hu-icpc/assets/js/dist/post.min.js'
 ];
