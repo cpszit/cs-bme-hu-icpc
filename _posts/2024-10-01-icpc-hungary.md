@@ -33,7 +33,7 @@ Send an email to Prof. Katalin Friedl at [friedl@cs.bme.hu](mailto:friedl@cs.bme
 
 Subject: ICPC registration  
 Contents:
-- Team Name
+- Team name
 - For each team member:
   - Name
   - Email address
