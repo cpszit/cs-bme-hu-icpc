@@ -31,8 +31,8 @@ The registration deadline is **2024 October 13**.
 
 Send an email to Prof. Katalin Friedl at [friedl@cs.bme.hu](mailto:friedl@cs.bme.hu) with the following information:
 
-Subject: ICPC registration  
-Contents:
+**Subject**: ICPC registration  
+**Contents**:
 - Team name
 - For each team member:
   - Name
