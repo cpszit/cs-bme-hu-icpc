@@ -21,10 +21,11 @@ _ICPC World Finals 2021, Dhaka, Bangladesh_
 
 The competition is open to teams of three, who are currently enrolled at the same university and all members meet the [eligibility requirements](https://cerc.acm.si/#participation). The teams have 5 hours to work on 10-12 exercises, using a single computer, provided by the organizers. Using hand-written or printed materials is allowed, however other electronic devices (phones, calculators, pendrives) and the Internet are not.
 
-There are three tiers of the competition:
+There are four tiers of the competition:
 
-- 1st Round: [ICPC Hungary](http://versenyek.inf.elte.hu)
-- 2nd Round: [ICPC CERC (Central European Regional Contest)](https://cerc.acm.si)
-- 3rd Round: [ICPC World Finals](https://icpc.global)
+- [ICPC Hungary](http://versenyek.inf.elte.hu)
+- [ICPC CERC (Central European Regional Contest)](https://cerc.acm.si)
+- [ICPC Europe Championship](https://euc.icpc.global/)
+- [ICPC World Finals](https://icpc.global)
 
-In the qualification round the first 2 teams from Budapest University of Technology and Economics will advance to the regional round, held in Ljubljana, Slovenia. Travel and stay is organized and funded by the university for our teams.
+In the qualification round the first 2 teams from Budapest University of Technology and Economics will advance to the regional round, held in Wrocław, Poland. Travel and stay is organized and funded by the university for our teams.
