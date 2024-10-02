@@ -23,7 +23,7 @@ The competition is open to teams of three, who are currently enrolled at the sam
 
 There are three tiers of the competition:
 
-- 1st Round: [Hungarian Qualifiers](http://versenyek.inf.elte.hu)
+- 1st Round: [ICPC Hungary](http://versenyek.inf.elte.hu)
 - 2nd Round: [ICPC CERC (Central European Regional Contest)](https://cerc.acm.si)
 - 3rd Round: [ICPC World Finals](https://icpc.global)
 
