@@ -19,8 +19,8 @@ in the world. The first round, ICPC Hungary is held every year at ELTE Universit
 
 In this contest, teams of three compete against the other teams and the time. Problems must be solved and submitted
 in either C++, Java, or Python. It is beneficial for the teams to have at least one member who is familiar with
-basic graph algorithms and data structures, and someone who has good programming skills. You can check out last
-year's exercises [here](https://cpszit.github.io/competitions/2023-10-14-icpc-hungary.pdf).
+basic graph algorithms and data structures, and someone who has good programming skills. You can check out the
+exercises from last year [here](https://cpszit.github.io/competitions/2023-10-14-icpc-hungary.pdf).
 
 The two best teams from BME participating in the competition will have the opportunity to represent our
 university in the regional round, which will be held later this year in Wrocław.
