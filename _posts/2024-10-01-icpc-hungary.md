@@ -21,7 +21,7 @@ In this contest, teams of three compete against the other teams and the time. Pr
 in either C++, Java, or Python. It is beneficial for the teams to have at least one member who is familiar with
 basic graph algorithms and data structures, and someone who has good programming skills. You can check out the
 exercises from last year [here](https://cpszit.github.io/competitions/2023-10-14-icpc-hungary.pdf). If you're
-interested and/or you don't have a team yet, join our competitive programming student club,
+interested and/or don't have a team yet, join our competitive programming student club,
 VProg on [Discord](https://vprog.hu/discord)!
 
 The two best teams from BME participating in the competition will have the opportunity to represent our
