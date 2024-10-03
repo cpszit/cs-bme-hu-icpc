@@ -1,8 +1,8 @@
 ---
 layout: post
 author: nemkin
-title: 'ICPC Hungary 2024'
-summary: 'Registration to ICPC Hungary'
+title: 'ICPC Hungary 2024: Algorithmic programming competition for teams'
+summary: 'Register now!'
 date: 2024-10-01 08:00:00 +0200
 categories: [icpc]
 keywords: icpc, registration, competition
@@ -13,9 +13,17 @@ tags:
 math: false
 ---
 
-The [International Collegiate Programming Contest](https://icpc.global), known as the ICPC, is one of the oldest,
-largest, and most prestigious competitive programming contests among the universities of the world. Teams of three
-students compete, representing their university.
+The [International Collegiate Programming Contest](https://icpc.global) (ICPC, formerly known as ACM ICPC)
+is one of the oldest, largest, and most prestigious competitive programming contests for college students
+in the world. The first round, ICPC Hungary is held every year at ELTE University.
+
+In this contest, teams of three compete against the other teams and the time. Problems must be solved and submitted
+in either C++, Java, or Python. It is beneficial for the teams to have at least one member who is familiar with
+basic graph algorithms and data structures, and someone who has good programming skills. You can check out last
+year's exercises [here](https://cpszit.github.io/competitions/2023-10-14-icpc-hungary.pdf).
+
+The two best teams from BME participating in the competition will have the opportunity to represent our
+university in the regional round, which will be held later this year in Wrocław.
 
 ## ICPC Hungary
 
@@ -29,7 +37,8 @@ The registration deadline is **2024 October 13**.
 
 ### How to register
 
-Send an email to Prof. Katalin Friedl at [friedl@cs.bme.hu](mailto:friedl@cs.bme.hu) with the following information:
+Send an email to Prof. Katalin Friedl at [friedl@cs.bme.hu](mailto:friedl@cs.bme.hu) with
+the following information in either English or Hungarian:
 
 **Subject**: ICPC registration  
 **Contents**:
