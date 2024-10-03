@@ -29,7 +29,7 @@ university in the regional round, which will be held later this year in Wrocław
 
 ## ICPC Hungary
 
-The registration deadline is **2024 October 13**.
+Your team **must be** registered in order to compete. The registration deadline is **13 October 2024**.
 
 ### Eligibility
 
@@ -40,7 +40,7 @@ The registration deadline is **2024 October 13**.
 ### How to register
 
 Send an email to Prof. Katalin Friedl at [friedl@cs.bme.hu](mailto:friedl@cs.bme.hu) with
-the following information in either English or Hungarian:
+the following information in either English or Hungarian till **13 October**:
 
 **Subject**: ICPC registration  
 **Contents**:
@@ -52,7 +52,7 @@ the following information in either English or Hungarian:
 
 ### Event details
 
-- **Date**: 2024 October 19 (Saturday)
+- **Date**: 19 October 2024 (Saturday)
 - **Time**:
   - Instructions, Practice Round: TBD
   - Contest: 10:00 - 15:00
@@ -64,7 +64,7 @@ the following information in either English or Hungarian:
 
 The round is invitation-only, BME delegates the top 2 teams from ICPC Hungary.
 
-CERC will be held between 2024 December 13-15 in Wrocław, Poland.
+CERC will be held between 13-15 December 2024 in Wrocław, Poland.
 
 More info: [http://cerc24.ii.uni.wroc.pl](http://cerc24.ii.uni.wroc.pl)
 
