@@ -69,3 +69,8 @@ CERC will be held between 13-15 December 2024 in Wrocław, Poland.
 More info: [http://cerc24.ii.uni.wroc.pl](http://cerc24.ii.uni.wroc.pl)
 
 Travel and accomodation for the two qualifying teams will be organized by BME.
+
+## Posters
+
+![](/assets/posts/2024-10-01-icpc-hungary/icpc_en_wide.png)
+![](/assets/posts/2024-10-01-icpc-hungary/icpc_hu_wide.png)
