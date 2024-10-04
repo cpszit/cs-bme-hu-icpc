@@ -1,9 +1,9 @@
 
 
 {
-  "name": "ICPC @ SZIT",
-  "short_name": "ICPC @ SZIT",
-  "description": "Competitive programming and the ICPC contest at BME VIK SZIT.",
+  "name": "ICPC @ BME",
+  "short_name": "ICPC @ BME",
+  "description": "Competitive programming and the ICPC contest at BME.",
   "icons": [
     {
       "src": "/cs-bme-hu-icpc/assets/img/favicons/android-chrome-192x192.png",

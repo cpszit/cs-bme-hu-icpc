@@ -2,9 +2,9 @@
 
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://cpszit.github.io/cs-bme-hu-icpc/</id>
-  <title>ICPC @ SZIT</title>
-  <subtitle>Competitive programming and the ICPC contest at BME VIK SZIT.</subtitle>
-  <updated>2024-10-04T14:56:44+02:00</updated>
+  <title>ICPC @ BME</title>
+  <subtitle>Competitive programming and the ICPC contest at BME.</subtitle>
+  <updated>2024-10-04T15:02:58+02:00</updated>
   <author>
     <name>CpSZIT</name>
     <uri>https://cpszit.github.io/cs-bme-hu-icpc/</uri>
